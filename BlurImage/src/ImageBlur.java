@@ -1,15 +1,3 @@
-/* 
-  Name: Caleb Ice
-  Assignment: Lab 01
-  Title: Image Blur
-  Course: CSCE 270
-  Lab Section: 01
-  Semester: Spring, 2016
-  Instructor: Dr. Blaha
-  Date: February 12, 2016
-  Program description: receives a .pgm file and blurs it a specified number of times 
-  Known Bugs: N/A
- */
 
 import java.io.File;
 import java.io.FileNotFoundException;
